@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* font-family: 'Inter', sans-serif;
+font-family: 'Manrope', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif; */
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.toast{
+    border-left: 10px solid blue;
+}
+h2{
+    font-size: 3rem;
+}
+h3{
+    color: #0A0826;
+    font-size: 2.5rem;
+    font-weight: 600;
+}
+h5,.price{
+    color: #231D4F;
+    font-family: 'Roboto', sans-serif;
+}
+p{
+    color: #6C6C6C;
+}
+.navbar-brand{
+    color: #3E3E3E;
+    font-size: 1.5rem;
+}
+.nav-link{
+    color: #3E3E3E;
+    font-weight: 500;
+}
+.navbar-toggler-icon{
+    background: url(../icons/menu-icon.png) no-repeat center;
+}
+.card-body button{
+    font-family: 'Roboto', sans-serif;
+    font-size: 1rem;
+}
+.price{
+    font-size: 2.2rem;
+    font-weight: bold;
+}
+.carousel-control-next-icon{
+    background: url(../icons/arrow-right.png) no-repeat center;
+    height: 100%;
+}
+.carousel-control-prev-icon{
+    background: url(../icons/arrow-left.png) no-repeat center;
+    height: 100%;
+}
+.carousel-inner p{
+    color: #fff;
+}
+.btn-close{
+    width: 0;
+    height: 0;
+    padding-right: 2rem;
+}
+
